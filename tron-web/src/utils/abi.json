@@ -1,0 +1,28 @@
+[
+	{
+		"inputs": [],
+		"name": "retrieve",
+		"outputs": [
+			{
+				"internalType": "string",
+				"name": "",
+				"type": "string"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "string",
+				"name": "_incident",
+				"type": "string"
+			}
+		],
+		"name": "storeIncident",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	}
+]
